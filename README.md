@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Iam+dev,+because+its+my+life)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munkgorn&layout=compact)](https://github.com/munkgorn)
-
-
-
 - 👋 Hi, I’m @munkgorn
 - 👀 I’m interested in ReactJs NodeJs PHP ...
 - 🌱 I’m currently learning ReactJs
@@ -45,6 +41,7 @@
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munkgorn&layout=compact)](https://github.com/munkgorn)
 
 <!---
 munkgorn/munkgorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
