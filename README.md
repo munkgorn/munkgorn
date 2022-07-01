@@ -1,8 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Codeing+is+not+my+job.+it+is+my+life)](https://git.io/typing-svg)
-## Me
-- 👋 Hi, I’m @munkgorn
-- 👀 I’m interested in ReactJs NodeJs PHP ...
-- 🌱 I’m currently learning ReactJs
+## 🧑‍💻 Me
+- 👋 Hi, I’m munkgorn (กร)
+- 🎓 College : Computer Science BSRU 
+- 💼 Work : 
+  - iDESIGN.CO.TH : PHP developer (February 28, 2014 - December 2014)
+  - Dreamhatch : iOS developer (September 2014 - November 27, 2014)
+  - iDESIGN.CO.TH : PHP developer (March 24, 2015 - 2018)
+  - Friendly Soft Pro : Fullstack Dev - main PHP (April 3, 2018 - February 26, 2021)
+  - Sabuy Technology : Frontend (March 1, 2021 - Present)
+- 👀 I’m interested in NextJs Crypto Web3 NodeJs ...
+- 🌱 I’m currently learning NextJs
+- 🔥 Freelance (Close) (I need relax time)
 - 📫 How to reach me : 
   - LineID : munkgorn
   - Email : munk.gorn@gmail.com 
