@@ -11,6 +11,7 @@
 - 👀 I’m interested in NextJs Crypto Web3 NodeJs ...
 - 🌱 I’m currently learning NextJs
 - 🔥 Freelance (Close) (I need relax time)
+- 🍺 Hobby 🍻
 - 📫 How to reach me : 
   - LineID : munkgorn
   - Email : munk.gorn@gmail.com 
