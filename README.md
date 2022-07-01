@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Codeing+is+not+my+job.+it+is+my+life)](https://git.io/typing-svg)
 ## 🧑‍💻 Me
-- 👋 Hi, I’m munkgorn (กร)
+- 👋 Hi, I’m munkgorn (มังกร)
 - 🎓 College : Computer Science BSRU 
 - 💼 Work : 
   - iDESIGN.CO.TH : PHP developer (February 28, 2014 - December 2014)
@@ -11,7 +11,7 @@
 - 👀 I’m interested in NextJs Crypto Web3 NodeJs ...
 - 🌱 I’m currently learning NextJs
 - 🔥 Freelance (Close) (I need relax time)
-- 🍺 Hobby 🍻
+- 🍺 Hobby 🍻☕🎮🎥
 - 📫 How to reach me : 
   - LineID : munkgorn
   - Email : munk.gorn@gmail.com 
