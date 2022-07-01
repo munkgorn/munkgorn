@@ -3,7 +3,11 @@
 - 👋 Hi, I’m @munkgorn
 - 👀 I’m interested in ReactJs NodeJs PHP ...
 - 🌱 I’m currently learning ReactJs
-- 📫 How to reach me : munk.gorn@gmail.com
+- 📫 How to reach me : 
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) munk.gorn@gmail.com 
+
+![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white) munkgorn
 
 
 
@@ -45,6 +49,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munkgorn&layout=compact)](https://github.com/munkgorn)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <!---
 munkgorn/munkgorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
