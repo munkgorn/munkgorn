@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Codeing+is+not+my+job.+it+is+my+life...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Codeing+is+not+my+job.+it+is+my+life...............)](https://git.io/typing-svg)
 ## 🧑‍💻 Me
 - 👋 Hi, I’m munkgorn (มังกร)
 - 🎓 College : Computer Science BSRU 
