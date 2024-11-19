@@ -3,11 +3,11 @@
 - 👋 Hi, I’m munkgorn (มังกร)
 - 🎓 College : Computer Science BSRU 
 - 💼 Work : 
-  - iDESIGN.CO.TH : PHP developer (February 28, 2014 - December 2014)
-  - Dreamhatch : iOS developer (September 2014 - November 27, 2014)
-  - iDESIGN.CO.TH : PHP developer (March 24, 2015 - 2018)
-  - Friendly Soft Pro : Fullstack Dev - main PHP (April 3, 2018 - February 26, 2021)
   - Sabuy Technology : Frontend (Extra Backend) (NodeJs ExpressJs, ReactJs, NextJs) (March 1, 2021 - Present 2024)
+  - Friendly Soft Pro : Fullstack Dev - main PHP (April 3, 2018 - February 26, 2021)
+  - iDESIGN.CO.TH : PHP developer (March 24, 2015 - 2018)
+  - Dreamhatch : iOS developer (September 2014 - November 27, 2014)
+  - iDESIGN.CO.TH : PHP developer (February 28, 2014 - December 2014)
 - 👀 I’m interested in Golang, Nodejs, Fullstack web developer, RestAPI
 - 🌱 I’m currently learning Testscript Playwright Golang RestAPI
 - 🔥 Freelance (Close)
