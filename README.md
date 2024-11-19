@@ -76,5 +76,3 @@
 ## 🧪 Testing
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
-## Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munkgorn&layout=compact)](https://github.com/munkgorn)
