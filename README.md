@@ -9,7 +9,7 @@
   - Dreamhatch : iOS developer (September 2014 - November 27, 2014)
   - iDESIGN.CO.TH : PHP developer (February 28, 2014 - December 2014)
 - 👀 I’m interested in Golang, Nodejs, Fullstack web developer, RestAPI
-- 🌱 I’m currently learning Testscript Playwright Golang RestAPI
+- 🌱 I’m currently learning Testscript Playwright Golang Bun C# .net
 - 🔥 Freelance (Close)
 - 🍺 Hobby 🍻☕🎮🎥
 - 📫 How to reach me : 
